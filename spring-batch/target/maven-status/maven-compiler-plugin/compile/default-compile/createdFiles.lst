@@ -1,0 +1,11 @@
+com\batch\processor\Processor.class
+com\batch\listener\JobCompletionNotificationListener.class
+com\batch\writer\Writer.class
+com\batch\App.class
+com\batch\processor\PersonItemProcessor.class
+com\batch\reader\Reader.class
+com\batch\listener\JobCompletinListener.class
+com\batch\controller\JobController.class
+com\batch\config\AppConfig$1.class
+com\batch\config\AppConfig.class
+com\batch\processor\Person.class

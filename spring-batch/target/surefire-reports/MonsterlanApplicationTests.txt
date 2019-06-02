@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: MonsterlanApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 12.873 s <<< FAILURE! - in MonsterlanApplicationTests
+contextLoads(MonsterlanApplicationTests)  Time elapsed: 0.829 s  <<< ERROR!
+org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [select * from springboot]; nested exception is java.sql.SQLSyntaxErrorException: Table 'springboot.springboot' doesn't exist
+	at MonsterlanApplicationTests.contextLoads(MonsterlanApplicationTests.java:37)
+Caused by: java.sql.SQLSyntaxErrorException: Table 'springboot.springboot' doesn't exist
+	at MonsterlanApplicationTests.contextLoads(MonsterlanApplicationTests.java:37)
+

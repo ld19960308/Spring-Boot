@@ -1,0 +1,10 @@
+C:\Users\ld\workspace_ee_32\spring-boot-demo\spring-batch\src\main\java\com\batch\processor\Person.java
+C:\Users\ld\workspace_ee_32\spring-boot-demo\spring-batch\src\main\java\com\batch\reader\Reader.java
+C:\Users\ld\workspace_ee_32\spring-boot-demo\spring-batch\src\main\java\com\batch\controller\JobController.java
+C:\Users\ld\workspace_ee_32\spring-boot-demo\spring-batch\src\main\java\com\batch\processor\Processor.java
+C:\Users\ld\workspace_ee_32\spring-boot-demo\spring-batch\src\main\java\com\batch\listener\JobCompletionNotificationListener.java
+C:\Users\ld\workspace_ee_32\spring-boot-demo\spring-batch\src\main\java\com\batch\App.java
+C:\Users\ld\workspace_ee_32\spring-boot-demo\spring-batch\src\main\java\com\batch\writer\Writer.java
+C:\Users\ld\workspace_ee_32\spring-boot-demo\spring-batch\src\main\java\com\batch\config\AppConfig.java
+C:\Users\ld\workspace_ee_32\spring-boot-demo\spring-batch\src\main\java\com\batch\listener\JobCompletinListener.java
+C:\Users\ld\workspace_ee_32\spring-boot-demo\spring-batch\src\main\java\com\batch\processor\PersonItemProcessor.java
